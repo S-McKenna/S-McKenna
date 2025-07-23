@@ -16,6 +16,14 @@ I’m transitioning into tech with hands-on experience in system administration,
 
 ## 📂 Featured Projects
 - [Home Lab](https://github.com/S-McKenna/home-lab): My lab documentation and setup notes
+- [🔐 Windows Security Audit Lab](https://github.com/S-McKenna/home-lab/tree/main/windows-security-audit): 
+  A real-world security audit conducted on a domain-joined Windows 10 workstation. Includes:
+  - Policy review (`secpol.msc`, `gpedit.msc`)
+  - NTLMv2 enforcement
+  - Audit logging with Event Viewer
+  - Local admin recovery
+  - Documentation of GPO-controlled limitations
+
 - [Resume + Projects](#): *(Optional link to a future repo with resume, writeups, walkthroughs)*
 
 ## 📬 Contact Me
